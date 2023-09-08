@@ -7,4 +7,4 @@ The impetus behind our research is the strategic business goal of Cyclistic - to
 
 Our study will help inform this marketing campaign, providing data-driven insights to tailor strategies that resonate with casual riders, addressing their needs and preferences, and, ultimately, encouraging them to become annual members. We believe that understanding these riders' behavior could be instrumental in crafting effective marketing messages and tactics.
 
-We look forward to uncovering these insights and sharing our findings with the broader team at Cyclistic. Our hope is that our work will play a vital role in shaping Cyclistic's future marketing strategies and contribute to its mission of inclusive, accessible, and profitable bike-sharing.
+
